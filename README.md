@@ -90,7 +90,7 @@ This project was created with the help of the following video tutorial:
 ## 🎬 Project Demo
 
 Watch the full demo of the network simulation here:  
-(https://github.com/AARTI756/company-network/blob/main/company%20network.mp4)]
+[![Project Demo](https://github.com/AARTI756/company-network/blob/main/company%20network.mp4)]
 
 
 <img width="1698" height="706" alt="Screenshot 2025-12-10 232213" src="https://github.com/user-attachments/assets/3089c5d0-e6d7-40c3-8652-8f9e05320379" />
