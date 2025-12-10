@@ -95,7 +95,6 @@ Watch the full demo of the network simulation here:
 
 <img width="1698" height="706" alt="Screenshot 2025-12-10 232213" src="https://github.com/user-attachments/assets/3089c5d0-e6d7-40c3-8652-8f9e05320379" />
 <img width="1917" height="712" alt="image" src="https://github.com/user-attachments/assets/ea0bfbfb-3384-43fc-85cf-7a117138635d" />
-<img width="1919" height="692" alt="image" src="https://github.com/user-attachments/assets/ea7584e3-df85-43a8-b1cf-d2e7a3ea47d4" />
 <img width="1852" height="704" alt="image" src="https://github.com/user-attachments/assets/5dd57601-2f71-4806-ba29-dceb2fc2ad11" />
 
 ----
